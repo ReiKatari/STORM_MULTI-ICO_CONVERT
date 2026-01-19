@@ -3,6 +3,7 @@
 - 3 темы оформления.
 - Русский интерфейс:
   <img width="525" height="515" alt="image" src="https://github.com/user-attachments/assets/edfdc9da-6b73-452c-ae78-76ce6d8ae6a3" />
+
 - Английский интерфейс:
   <img width="520" height="517" alt="image" src="https://github.com/user-attachments/assets/94546c5d-fc87-4677-b2e0-615ae9d5f2d7" />
 
