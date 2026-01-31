@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ceb64014-b247-49b2-b78c-8e116f599a1c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/59a3c3bf-e647-40c7-abf2-609f48edc498" />
 
 # STORM MULTI-ICO CONVERTER
 
