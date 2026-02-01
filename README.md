@@ -4,6 +4,12 @@
 
 # STORM MULTI-ICO CONVERTER
 
+**Мощный конвертер в различные графические форматы, с функционалом изменения размера и добавления прозрачности, а также создание MULTI-ICO (16x16, 32x32, 48x48, 64x64, 128x128, 256x256) в один клик**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
+[![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)](https://pypi.org/project/PyQt6/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 </div>
 
 ### 🇷🇺 Особенности программы (Russian)
